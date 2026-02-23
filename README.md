@@ -75,5 +75,3 @@ For specific setup instructions, feature lists, and the technical challenges sol
 ---
 
 **Developed by:** Abdeali Makda🧑🏻‍💻
-
-```
