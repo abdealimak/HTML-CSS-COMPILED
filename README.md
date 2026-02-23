@@ -1,4 +1,4 @@
-# HTML AND CSS Project Suite — Abdeali Makda
+# HTML and CSS Project Suite — Abdeali Makda
 
 Welcome to my master repository of web development projects. This collection showcases a diverse range of technical skills, from high-performance canvas animations and SVG vector art to modern, responsive e-commerce and portfolio layouts.
 
